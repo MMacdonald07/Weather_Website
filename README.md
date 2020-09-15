@@ -20,7 +20,7 @@ To open the program ordinarily on your device:
 npm run start
 ```
 
-Developer mode can also be used - this will restart the server upon saving a .js or .hbs file:
+Developer mode can also be used - this will run the script with nodemon so the server is restarted upon saving a .js or .hbs file:
 
 ```bash
 npm run dev
